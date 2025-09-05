@@ -10,4 +10,4 @@ From Kaggle: [COVID-19 in India](https://www.kaggle.com/datasets/sudalairajkumar
 2. Run `covid_visualization.ipynb` in Jupyter Notebook.
 
 ## Plot Example
-![Cases Over Time](plots/cases_over_time.png)
+![Cases Over Time](plots/cases_over_time.png) 
